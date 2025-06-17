@@ -56,12 +56,3 @@
 
 <hr/>
 
-<div align="center">
-  <h2>Here's a Snake eating my Contributions:</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/suryanshdubey20/suryanshdubey20/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-</div>
-
-<hr/>
