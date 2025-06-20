@@ -5,7 +5,7 @@
 
 <div align="left">
  
-- 🌱 I’m currently learning **Data Structure and Algorithms.**
+- 🌱 I’m currently learning **Go + Node.js.**
 
 - 📫 How to reach me **suryanshdubey481@gmail.com**
 
