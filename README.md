@@ -5,9 +5,9 @@
 
 <div align="left">
  
-- 🌱 I’m currently learning **Go + Node.js.**
+- 🌱 I’m currently learning: **Go + Node.js.**
 
-- 📫 How to reach me **suryanshdubey481@gmail.com**
+- 📫 How to reach me: **suryanshdubey481@gmail.com**
 
 </div>
  
