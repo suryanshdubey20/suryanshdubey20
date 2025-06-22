@@ -42,7 +42,7 @@
  
 <h2 align="left">Languages and Tools:</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,spring" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
 </div>
