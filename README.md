@@ -1,13 +1,25 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Suryansh Dubey</h1>
 
-<h3 align="center">A passionate Python developer from India</h3>  
+<h3 align="center">A passionate Python developer from India</h3> 
+
+![age](https://img.shields.io/badge/age-19-blue)
+![focus](https://img.shields.io/badge/focus-DevOps-brightgreen)
+![living](https://img.shields.io/badge/living-Noida-3c9)
+
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+## 👨‍💻 About Me
 
 <div align="left">
  
 - 🌱 I’m currently learning: **Go + Node.js.**
 
 - 📫 How to reach me: **suryanshdubey481@gmail.com**
+
+- ⚡ Fun fact: **Jack of all trades, Master of None**
 
 </div>
  
