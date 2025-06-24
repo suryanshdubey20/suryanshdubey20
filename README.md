@@ -4,9 +4,11 @@
 
 <h3 align="center">A passionate Python developer from India</h3> 
 
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-DevOps-brightgreen)
-![living](https://img.shields.io/badge/living-Noida-3c9)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=suryanshdubey20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/focus-DevOps-brightgreen" alt="Focus" />
+  <img src="https://img.shields.io/badge/living-Noida-3c9" alt="Living" />
+</p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
