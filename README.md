@@ -25,8 +25,8 @@
 
 </div>
  
-<div align="left"> 
-  <a href="https://www.instagram.com/suryansh_dwivedi__?igsh=MWIwZXNldjAwbWZhaQ==" target=" _blank">
+<div align="left">
+  <a href="https://www.instagram.com/suryansh.dwivedi_?igsh=MWUxN3U3cmtyeG41bg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank" />
   </a>
   <a href="https://www.linkedin.com/in/suryansh-dubey-6b2805330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
