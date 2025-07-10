@@ -74,9 +74,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/suryanshdubey20/suryanshdubey20/output/github-contribution-grid-snake.svg)
 
-## 📊 Here's My LeetCode Stats:
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/SURYANSH?theme=dark&font=baloo&ext=heatmap)
 
 
 
